@@ -1,0 +1,3 @@
+rootProject.name = "kanzispeaker_project"
+include ":app"
+include ":KanziSpeaker"
